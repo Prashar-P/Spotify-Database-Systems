@@ -7,9 +7,12 @@ https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 
 ## Criteria:
 - Create a poster/infographic that highlights key findings from the selected dataset.
+- Written Report on provided database. (Report has been omitted from repository)
 
 ## Tech Stack:
 * Python
+* SQL
+* Adobe Photoshop
 
 ## Poster Created:
 
